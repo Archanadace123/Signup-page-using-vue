@@ -1,3 +1,5 @@
+Created a Sign-up page using Vue and Vuetify.
+The front-end contains all the user input details which is to be collected
 # signup_page
 
 ## Project setup
